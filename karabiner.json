@@ -346,11 +346,11 @@
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "f14"
+                                    "key_code": "f5"
                                 },
                                 "to": [
                                     {
-                                        "shell_command": "/bin/sh /Users/ethan/Documents/bgsToggle.sh"
+                                        "shell_command": "/bin/sh ~/Documents/bgsToggle.sh"
                                     }
                                 ],
                                 "type": "basic"
@@ -495,7 +495,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f14"
+                            "key_code": "f15"
                         }
                     ]
                 },
